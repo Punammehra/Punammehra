@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Punam Kumari</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
+<div><img align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
 
 - 🔭 I’m currently working on **React.js**
 
